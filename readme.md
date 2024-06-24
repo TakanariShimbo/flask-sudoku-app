@@ -25,9 +25,9 @@ conda activate flask_sudoku_app
 pip install -r requirements.txt
 ```
 
-### Run sample program
+### Build Server
 
 ```
 # Please activate venv before executing it.
-python sample.py
+python server.py
 ```
